@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mannycodes-J/Mannycodes-J/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mannycodes-J/Mannycodes-J/snake.yml" alt="Snake animation" />
 
 ###
